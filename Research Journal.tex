@@ -5,13 +5,16 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage[none]{hyphenat}
 \usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{url}
+
 \doublespace
 
 % You may add additional packages here
 \usepackage{amsmath}
 
 % Please include a clear, concise, and descriptive title
-\title{Illumination for
+\title{Research on Illumination for
 Computer Generated
 Pictures }
 
@@ -25,16 +28,54 @@ Pictures }
 
 \maketitle
 
-\abstract{Please include an abstract of at most 100 words (these do not count towards your word count)}
 
 \section{Introduction}
+For this research paper I chose to write about ``Illumination for Computer Generated Pictures`` \cite{one} which is a paper about graphics and image processing, Written by Bui Tuong Phong. I decided to write about this paper as I already had a lot of interest in the way 3D computer models are processed and rendered and I think it will benefit me to know more about it for my future studies. 
 
+\section{What the paper is about}
+In his paper, Bui Tuong Phong writes about wanting to find a new better way of realistically rendering 3D models and talks about the different ways in which models were rendered back then. He talks in depth about specific rendering techniques such as Flat Shading and Gouraud shading in which he gives some negatives points and explains how they weren't good enough to get a more realistic looking render for some simple 3D models. He then goes on to proposing and explaining his own way of doing realistic shading.
 
-\section{So let's talk about sprints}
+\section{Psuedo technicalities of Phong Shading}
+I don't exactly understand all the maths behind the different shading types but I will still like to explain what I understood.\\
+To properly explain Phong shading without getting too complicating, I feel like I need to explain Flat shading and Gourad first as Phong is directly based off of them.
+\\~\\
+So to quickly explain Flat shading, the way that it works is by calculating a point on each polygon surface of the model, and interpolating its colour accordingly depending on the position of the light source(s).
+Flat shading is the simplest form of shading and is used for high speed rendering.
+\\~\\
+For Gouraud shading, the light intensity is calculated for each vertex  of each polygon surface and then a colour merging function is used to blend the colours between the vertices and the surfaces of the polygons. This process requires a lot more processing for rendering time compared to Flat shading but not as much as Phong shading.\cite{one}\cite{six}
+\\~\\
+Phong shading works similarly to Gouraud shading, but instead it is being calculated for each pixel on the model's surface. This is obviously the longest to process for rendering speed, but it does give the best result.\cite{one}\cite{six}
+\\~\\
+\begin{center}
+\includegraphics{SHADING.jpg}
+{\footnotesize \url{image source: https://www.pcmag.com/encyclopedia_images/_SHADING.GIF}}
+\end{center}
 
+\section{How it has influenced other works}
+His shading method, which is now well known as the Phong shading model grew to became a very popular method for shading 3D models and helped a lot of people realise more realistic and ambitious 3D computing projects. It also became a base for other new shading methods such as the blinn-phong shading model.
 
+\subsection{works in which Phong shading was used}
+In the paper ``Geometry and Reflectance Estimation for Virtualization`` the authors discuss how they reconstructed real scenes from photographs in a virtual 3D environment with the help of the Phong shading model and other shading techniques.\cite{three}
+\\~\\
+In the paper ``Design principles of hardware-based phong shading and bump mapping`` the authors discuss Phong shading's capabilities and how it could be simplified in order to create higher quality images with the use of bump mapping.\cite{four}
+\\~\\
+According to GiantBomb.com, Brave Firefighters, a arcade game by Sega was the first video game to use Phong shading and it was considered to have the most technically advanced graphics for its time.\cite{five}
+\\~\\
+Phong shading has been used by many people in order to help with their own researches and purposes.
+
+\subsection{Blinn-Phong}
+James F. Blinn in his paper ``Models of light reflection for computer synthesized pictures``, he explores Bui Tuong Phong's shading model and compares its formula to different forumlas of his own that achieve the same principles. He created what he calls ''Torrance-Sparrow reflection model'' which from my understanding is now known as the Blinn-Phong shading model.\\
+The Blinn-Phong shading model works very similarly to the Phong shading model but achieves more realism with less or equal amount of computation time making it overall more desirable to use then the original Phong shading model.\cite{two}
+\\~\\
+Blinn-Phong is used in OpenGL (Open Graphics Library) as the default shading model and Direct3D which is a Graphics API used in DirectX. Both OpenGL and Driect3D are two really popular 3D graphics APIs which are extensively used within many 3D applications.
+
+\section{Personal Thoughts}
+I personally think that Bui Tuong Phong's research on his shading method was a really great research discovery the made way for plenty more developments in the 3D graphics shading area of computer science. thanks to it we have plenty more new shading techniques that has branched off of it, helping people build more and more realistic digital 3D visuals.
+\\~\\
+I have learnt a lot by doing research on this paper and even if I didn't exactly understand all the maths and code behind it, I still really enjoyed reading about it. It has helped me better understand the importance of 3D model shading and how it can help make models seem more realistic. The things I have learnt will definitely help me in my future studies in computing for games and I am excited to apply my knowledge when possible.
 
 \section{Conclusion}
+Bui Tuong Phong's paper and research were great contributions to computer science in it's time, it really made way for future methods and techniques for shading and rendering 3D models in realistic ways. Even to this day Phong shading is still heavily used within applications and graphic APIs.
 
 \bibliography{references}
 \bibliographystyle{ieeetran}

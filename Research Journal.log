@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.23)  13 NOV 2017 12:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.23)  15 NOV 2017 06:17
 entering extended mode
 **"./Research Journal.tex"
 ("Research Journal.tex"
@@ -212,6 +212,27 @@ LaTeX Info: Redefining \_ on input line 43.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count98
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip56
@@ -223,46 +244,46 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
-\ex@=\dimen107
+\ex@=\dimen109
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen108
+\pmbraise@=\dimen110
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count98
+\inf@bad=\count99
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count99
-\leftroot@=\count100
+\uproot@=\count100
+\leftroot@=\count101
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count101
-\DOTSCASE@=\count102
+\classnum@=\count102
+\DOTSCASE@=\count103
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
-\big@size=\dimen109
+\big@size=\dimen111
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count103
-\c@MaxMatrixCols=\count104
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
 \dotsspace@=\muskip11
-\c@parentequation=\count105
-\dspbrk@lvl=\count106
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
 \tag@help=\toks16
-\row@=\count107
-\column@=\count108
-\maxfields@=\count109
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
 \andhelp@=\toks17
-\eqnshift@=\dimen110
-\alignsep@=\dimen111
-\tagshift@=\dimen112
-\tagwidth@=\dimen113
-\totwidth@=\dimen114
-\lineht@=\dimen115
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
 \@envbody=\toks18
 \multlinegap=\skip57
 \multlinetaggap=\skip58
@@ -270,79 +291,182 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-No file "Research Journal".aux.
+("Research Journal.aux")
 \openout1 = `"Research Journal.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 27.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count111
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
+
+("Research Journal.out") ("Research Journal.out")
 \@outlinefile=\write3
 \openout3 = `"Research Journal.out"'.
 
 
-No file "Research Journal".bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
-[1
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen118
+\scratchbox=\box31
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen119
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks21
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) [1
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--49
+
+ []
+
+<SHADING.jpg, id=49, 271.0125pt x 98.16675pt>
+File: SHADING.jpg Graphic file (type jpg)
+ <use SHADING.jpg>
+Package pdftex.def Info: SHADING.jpg used on input line 50.
+(pdftex.def)             Requested size: 271.01183pt x 98.1665pt.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 58--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--65
+
+ []
+
+[3 <./SHADING.jpg>]
+Overfull \hbox (1.25166pt too wide) in paragraph at lines 67--71
+\OT1/cmr/m/n/10.95 James F. Blinn in his pa-per ``Mod-els of light re-flec-tion
+ for com-puter syn-the-sized pic-tures``,
+ []
+
+
+Overfull \hbox (36.5856pt too wide) in paragraph at lines 67--71
+\OT1/cmr/m/n/10.95 fo-rum-las of his own that achieve the same prin-ci-ples. He
+ cre-ated what he calls ''Torrance-Sparrow
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
+[4] ("Research Journal.bbl"
+Underfull \hbox (badness 1005) in paragraph at lines 33--35
+[]\OT1/cmr/m/n/10.95 C. Watcharopas and R. Dan-forth, ``Ge-om-e-try and re-flec
+tance es-ti-ma-tion for
+ []
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+
+Underfull \hbox (badness 1173) in paragraph at lines 37--39
+[]\OT1/cmr/m/n/10.95 K. Ben-nebroek, I. Ernst, H. Rs-seler, and O. Wit-tig, ``D
+e-sign prin-ci-ples of
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  ("Research Journal.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
-
-
-Package rerunfilecheck Warning: File `"Research Journal".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Research Journal".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  36EC2F8DFBE69AAB1EB259D0D8CF47BB;157.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package rerunfilecheck Info: File `"Research Journal".out' has not changed.
+(rerunfilecheck)             Checksum: C1F12E726F28C74FF2E31635CE035D0E;497.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 8 (\begingroup)
+### semi simple group (level 1) entered at line 11 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6790 strings out of 493323
- 109989 string characters out of 3139059
- 286772 words of memory out of 3000000
- 10316 multiletter control sequences out of 15000+200000
- 6785 words of font info for 25 fonts, out of 3000000 for 9000
+ 7725 strings out of 493323
+ 123043 string characters out of 3139059
+ 305364 words of memory out of 3000000
+ 11184 multiletter control sequences out of 15000+200000
+ 11429 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,51p,8831b,1589s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,51p,8831b,1964s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on "Research Journal.pdf" (1 page, 39434 bytes).
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on "Research Journal.pdf" (5 pages, 93067 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
